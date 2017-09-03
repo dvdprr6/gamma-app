@@ -1,0 +1,41 @@
+
+
+
+/*************************************************/
+/*                      MOBILE                   */
+/*************************************************/
+
+/* Jumbotron */
+
+.jumbotron{
+    background: url(../img/site_showcase_bg.jpg) no-repeat top center;
+    overflow: hidden;
+    width: 100%;
+    color: #ffffff;
+    height: 500px;
+}
+
+.jumbotron h1,
+.jumbotron p{
+    text-align: center
+}
+
+.jumbotron h1{
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.jumbotron h1 span{
+    color: #1caa91;
+}
+
+.jumbotron p{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.jumbotron img{
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0;
+}
