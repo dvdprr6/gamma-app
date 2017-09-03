@@ -42,6 +42,10 @@
     font-weight: bold;
 }
 
+.demo .read-more{
+    padding-bottom: 15px;
+}
+
 /* Feature */
 
 .features{
@@ -73,11 +77,6 @@
 }
 
 
-.demo .read-more{
-    padding-bottom: 15px;
-}
-
-
 /* Footer */
 
 
@@ -103,4 +102,11 @@ footer ul li a:link{
 footer p{
     color: #ffffff;
     text-align: center;
+}
+
+@media(min-width: 1200px){
+    
+    footer p{
+        margin: 5px 0;
+    }
 }
