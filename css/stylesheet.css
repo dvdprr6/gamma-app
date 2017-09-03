@@ -36,7 +36,38 @@
     padding: 20px 0;
 }
 
-/* Features */
+/* Demo */
+
 .demo h2{
     font-weight: bold;
+}
+
+/* Feature */
+
+.features{
+    background-color: #1caa91;
+}
+
+.features h2{
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.features ul{
+    display: block;
+    list-style: none;
+    padding: 0;
+}
+
+.features ul li{
+    text-align: center;
+    font-weight: bold;
+    color: #ffffff;
+    padding: 5px 0;
+}
+
+.features img{
+    display: block;
+    margin: 0 auto;
 }
