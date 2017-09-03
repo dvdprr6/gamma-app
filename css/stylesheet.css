@@ -104,6 +104,14 @@ footer p{
     text-align: center;
 }
 
+@media(min-width: 768px){
+
+    .demo img{
+        display: block;
+        margin: 0 auto;
+    }
+}
+
 @media(min-width: 1200px){
     
     footer p{
