@@ -1,5 +1,6 @@
-
-
+/***************/
+/*  INDEX.HTML */
+/***************/
 
 /* Jumbotron */
 
@@ -107,6 +108,20 @@ footer p{
     color: #ffffff;
     text-align: center;
 }
+
+/***************/
+/*  ABOUT.HTML */
+/***************/
+header{
+    background-color: #1caa91;
+}
+
+header h1{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+
 
 @media(min-width: 768px){
 
