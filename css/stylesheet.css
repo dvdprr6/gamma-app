@@ -116,6 +116,18 @@ footer p{
     }
 }
 
+@media(min-width: 1024px){
+    
+    .jumbotron img{
+        width: 200px;
+    }
+
+    .jumbotron .phone-image{
+        width: 327px;
+    }
+
+}
+
 @media(min-width: 1200px){
     
     footer p{
