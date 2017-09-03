@@ -71,3 +71,30 @@
     display: block;
     margin: 0 auto;
 }
+
+/* Footer */
+
+
+footer{
+    background-color: #000000;
+}
+
+footer ul{
+    list-style: none;
+    margin-bottom: 5px;
+}
+
+footer ul li{
+    display: inline;
+    padding: 0 5px;
+}
+
+footer ul li a:link{
+    text-decoration: none;
+    color: #ffffff;
+}
+
+footer p{
+    color: #ffffff;
+    text-align: center;
+}
