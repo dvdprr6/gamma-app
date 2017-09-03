@@ -1,10 +1,6 @@
 
 
 
-/*************************************************/
-/*                      MOBILE                   */
-/*************************************************/
-
 /* Jumbotron */
 
 .jumbotron{
@@ -38,4 +34,9 @@
     display: block;
     margin: 0 auto;
     padding: 20px 0;
+}
+
+/* Features */
+.demo h2{
+    font-weight: bold;
 }
