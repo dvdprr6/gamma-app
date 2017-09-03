@@ -30,6 +30,10 @@
     font-weight: bold;
 }
 
+.jumbotron a:link{
+    text-decoration: none;
+}
+
 .jumbotron img{
     display: block;
     margin: 0 auto;
